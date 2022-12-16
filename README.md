@@ -1,6 +1,13 @@
 Generator_AutoLabelling_2D_Poly
 
+자동으로 도형을 생성하고 그에 맞는 Yolo_mark기준의 라벨링 txt파일을 생성한다
 
+사용가능 도형 12가지
+- 삼각형,직각삼각형,정삼각형,이등변삼각형
+- 사각형,정사각형,직사각형,사다리꼴,평행사변형
+- 오각형
+- 육각형
+- 원
 ![1_0](https://user-images.githubusercontent.com/50655585/129323189-018a43ca-4b1e-4863-9f13-dc155144b431.jpg)
 ![0_0](https://user-images.githubusercontent.com/50655585/129323223-f23402f0-b4c9-4a0b-b9e5-9ff75d227746.jpg)
 ![2_0](https://user-images.githubusercontent.com/50655585/129323239-d3ef492b-119a-4170-8606-38587df50b84.jpg)
